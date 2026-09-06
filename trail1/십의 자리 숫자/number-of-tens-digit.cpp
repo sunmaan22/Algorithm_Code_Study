@@ -3,8 +3,7 @@ using namespace std;
 
 int main() {
     int arr[10]={},n;
-    while(1){
-        cin>>n;
+    while(cin>>n){
         if(n==0) break;
         arr[n/10]++;
     }
