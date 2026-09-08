@@ -1,1 +1,1 @@
-# Algorithm_Code_Theory_Study
+# Algorithm_Study
